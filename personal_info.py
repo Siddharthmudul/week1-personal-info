@@ -1,4 +1,4 @@
-# Personal Information Manager
+# Siddharth Babu Mudul
 # My first Python project
 
 # Welcome message
@@ -8,10 +8,10 @@ print("=" * 40)
 print()
 
 # Store static information
-name = "Alex Johnson"
+name = "Siddharth Mudul"
 age = 22
-city = "San Francisco"
-hobby = "playing guitar"
+city = "India"
+hobby = "playing cricket"
 
 # Get user input
 print("Please tell me about yourself:")
