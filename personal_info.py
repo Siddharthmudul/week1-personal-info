@@ -8,10 +8,10 @@ print("=" * 40)
 print()
 
 # Store static information
-name = "Siddharth Mudul"
+name = "Alex Johnson"
 age = 22
-city = "India"
-hobby = "playing cricket"
+city = "San Francisco"
+hobby = "playing guitar"
 
 # Get user input
 print("Please tell me about yourself:")
